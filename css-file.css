@@ -1,0 +1,133 @@
+body{
+    font-family: 'Lato', sans-serif;
+    margin: 0%;
+}
+
+h1{
+    font-size: 45px;
+    color: #ec4c7a;
+}
+
+.paragraph{
+    color: gray;
+}
+
+.first-cotainer{
+        padding-top: 150px;
+        width: 40%;
+        margin-left: 5%;
+        float: left;
+}
+#padding{
+    padding-left: 100px;
+}
+img{
+    width: 100%;
+    
+}
+.hire-me{
+    text-decoration: none;
+    font-weight: 800;
+    background-color: #ec4c7a;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 30px;
+}
+
+.first-area{
+    background-image: url("image/first bg.png");
+    background-repeat: no-repeat;
+    height: 500px;
+}
+/*====================================================================================*/
+
+.secend-container{
+    margin-top: 70px;
+    width: 40%;
+    margin-left: 5%;
+    float: left;
+}
+#secend-padding{
+    padding-top: 70px;
+}
+
+.title{
+    color: black;
+}
+
+.download-cv{
+    text-decoration: none;
+    font-weight: 800;
+    background-color: #ec4c7a;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 30px;
+}
+
+.secend-area{
+    margin-top: 150px;
+    background-image: url("image/secend-bg.png");
+    background-repeat: no-repeat;
+    height: 700px;
+}
+
+/*====================================================================================*/
+
+.letest-work{
+    color: black;
+    text-align: center;
+}
+
+.last-container{
+    margin-top: 70px;
+    width: 25%;
+    margin-left: 30px;
+    padding: 5px;
+    float: left;
+
+}
+
+.last-area{
+    background-image: url("image/bg.png");
+    background-repeat: no-repeat;
+    height: 400px;
+}
+#ll{
+    margin-left: 125px;
+   
+}
+/*====================================================================================*/
+
+.last-title{
+    text-align: center;
+}
+
+.last-text{
+    text-align: center;
+    color: white;
+    background-color: #ec4c7a;
+    padding: 10px 15px;
+    height: 90px;
+    width: 450px;
+    border-radius: 7px;
+    margin-left: 30%;
+    
+}
+#ceo{
+    color: gray;
+}
+.last-text{
+    text-align: center;
+}
+.end{
+    margin-top: 150px;
+    background-image: url("image/footer-bg.png");
+    background-repeat: no-repeat;
+    height: 500px;
+
+}
+#footer{
+    color: gray;
+    text-align: center;
+    margin-top: 100px;
+}
