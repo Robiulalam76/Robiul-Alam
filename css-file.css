@@ -110,14 +110,11 @@ img{
     height: 90px;
     width: 450px;
     border-radius: 7px;
-    margin-left: 30%;
+    margin: 0 auto;
     
 }
 #ceo{
     color: gray;
-}
-.last-text{
-    text-align: center;
 }
 .end{
     margin-top: 150px;
